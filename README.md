@@ -10,8 +10,8 @@
   <a href="https://github.com/sxaksaa">
     <img src="https://komarev.com/ghpvc/?username=sxaksaa&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-2563EB?style=for-the-badge" alt="Full-stack focus badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Internship-22C55E?style=for-the-badge" alt="Open to internship badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-7C3AED?style=for-the-badge" alt="Full-stack focus badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internship-7C3AED?style=for-the-badge" alt="Open to internship badge" />
 </p>
 
 ---
@@ -70,23 +70,23 @@ I'm a full-stack web development learner who enjoys turning ideas into useful sy
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">REST API Mahasiswa</h3>
+      <h3 align="center">BRL-Fashion</h3>
       <p align="center">
-        Simple API using PHP and MySQL with basic request handling.
+        Fashion web project built with Blade for a clean product and brand presentation.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Blade-F97316?style=flat-square" alt="Blade" />
+        <img src="https://img.shields.io/badge/Fashion%20Web-EC4899?style=flat-square" alt="Fashion Web" />
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">Laravel CRUD App</h3>
+      <h3 align="center">Siemola</h3>
       <p align="center">
-        Web-based CRUD system with authentication and database integration.
+        Smart locker system with RFID/ESP integration, monitoring dashboard, and borrowing history.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Auth-22C55E?style=flat-square" alt="Auth" />
-        <img src="https://img.shields.io/badge/Blade-F97316?style=flat-square" alt="Blade" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/RFID%20ESP-2563EB?style=flat-square" alt="RFID ESP" />
       </p>
     </td>
   </tr>
