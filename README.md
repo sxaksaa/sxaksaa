@@ -1,22 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:2563EB,100:06B6D4&height=190&section=header&text=Hi,%20I'm%20Aksaa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20Open%20to%20Internship&descAlignY=58&descAlign=50" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:2563EB,100:06B6D4&height=150&section=header&text=Hi,%20I'm%20Aksaa&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20Enthusiast&descAlignY=60&descAlign=50" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=2600&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+practical+web+applications;PHP+%7C+Laravel+%7C+MySQL+%7C+REST+API;Frontend+flows+%2B+backend+logic;Learning+every+day+and+shipping+better+projects" alt="Typing animation" />
+  <strong>PHP</strong> | <strong>Laravel</strong> | <strong>MySQL</strong> | <strong>REST API</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/sxaksaa">
     <img src="https://komarev.com/ghpvc/?username=sxaksaa&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-7C3AED?style=for-the-badge" alt="Full-stack focus badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Internship-7C3AED?style=for-the-badge" alt="Open to internship badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web-7C3AED?style=for-the-badge" alt="Full-stack focus badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internship-2563EB?style=for-the-badge" alt="Open to internship badge" />
 </p>
 
 ---
-
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 
 ## About Me
 
@@ -29,7 +27,9 @@ I'm a full-stack web development learner who enjoys turning ideas into useful sy
 - I enjoy building practical products like **Aksa Xiterz**, a web platform that helps automate transactions through a website and payment gateway flow
 - I use AI tools as a learning and productivity assistant while still improving my own understanding of the code
 
-<br clear="right" />
+<p align="center">
+  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+</p>
 
 ---
 
@@ -57,40 +57,32 @@ I'm a full-stack web development learner who enjoys turning ideas into useful sy
 
 ## Project Highlights
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">Aksa Xiterz</h3>
-      <p align="center">
-        Web platform for digital product transactions with automated checkout and payment gateway flow.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/Payment%20Gateway-22C55E?style=flat-square" alt="Payment Gateway" />
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">BRL-Fashion</h3>
-      <p align="center">
-        Fashion web project built with Blade for a clean product and brand presentation.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Blade-7C3AED?style=flat-square" alt="Blade" />
-        <img src="https://img.shields.io/badge/Fashion%20Web-EC4899?style=flat-square" alt="Fashion Web" />
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Siemola</h3>
-      <p align="center">
-        Smart locker system with RFID/ESP integration, monitoring dashboard, and borrowing history.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/RFID%20ESP-2563EB?style=flat-square" alt="RFID ESP" />
-      </p>
-    </td>
-  </tr>
-</table>
+### [Aksa Xiterz](https://github.com/sxaksaa/aksaxiterz)
+
+Web platform for digital product transactions with automated checkout and payment gateway flow.
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Payment%20Gateway-22C55E?style=flat-square" alt="Payment Gateway" />
+</p>
+
+### [BRL-Fashion](https://github.com/sxaksaa/BRL-Fashion)
+
+Fashion web project built with Blade for a clean product and brand presentation.
+
+<p>
+  <img src="https://img.shields.io/badge/Blade-7C3AED?style=flat-square" alt="Blade" />
+  <img src="https://img.shields.io/badge/Fashion%20Web-EC4899?style=flat-square" alt="Fashion Web" />
+</p>
+
+### [Siemola](https://github.com/sxaksaa/Siemola)
+
+Smart locker system with RFID/ESP integration, monitoring dashboard, and borrowing history.
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/RFID%20ESP-2563EB?style=flat-square" alt="RFID ESP" />
+</p>
 
 ---
 
@@ -110,16 +102,23 @@ Deployment             █████░░░░░  50%
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sxaksaa&theme=tokyonight" alt="Aksaa's GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxaksaa&theme=tokyonight" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxaksaa&theme=tokyonight" alt="Aksaa's GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sxaksaa&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=22C55E" alt="GitHub streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sxaksaa&theme=tokyonight" alt="Aksaa's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxaksaa&theme=react-dark&hide_border=true&area=true&custom_title=Aksaa's%20Contribution%20Graph" alt="GitHub activity graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxaksaa&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=sxaksaa&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=22C55E" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sxaksaa&theme=react-dark&hide_border=true&area=true&custom_title=Aksaa's%20Contribution%20Graph" alt="GitHub activity graph" />
 </p>
 
 ---
