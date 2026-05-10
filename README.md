@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=2600&pause=700&color=F97316&center=true&vCenter=true&width=760&lines=Building+practical+web+applications;PHP+%7C+Laravel+%7C+MySQL+%7C+REST+API;Frontend+flows+%2B+backend+logic;Learning+every+day+and+shipping+better+projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=2600&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+practical+web+applications;PHP+%7C+Laravel+%7C+MySQL+%7C+REST+API;Frontend+flows+%2B+backend+logic;Learning+every+day+and+shipping+better+projects" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ I'm a full-stack web development learner who enjoys turning ideas into useful sy
         Fashion web project built with Blade for a clean product and brand presentation.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Blade-F97316?style=flat-square" alt="Blade" />
+        <img src="https://img.shields.io/badge/Blade-7C3AED?style=flat-square" alt="Blade" />
         <img src="https://img.shields.io/badge/Fashion%20Web-EC4899?style=flat-square" alt="Fashion Web" />
       </p>
     </td>
@@ -115,7 +115,7 @@ Deployment             █████░░░░░  50%
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sxaksaa&theme=tokyonight&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=22C55E" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=sxaksaa&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=22C55E" alt="GitHub streak" />
 </p>
 
 <p align="center">
