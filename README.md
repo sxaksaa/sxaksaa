@@ -110,8 +110,8 @@ Deployment             █████░░░░░  50%
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sxaksaa&show_icons=true&theme=tokyonight&hide_border=true&title_color=F97316&icon_color=22C55E" alt="Aksaa's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxaksaa&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sxaksaa&theme=tokyonight" alt="Aksaa's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxaksaa&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
