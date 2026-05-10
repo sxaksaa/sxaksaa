@@ -1,60 +1,140 @@
-<h1 align="center">Hi 👋, I'm Aksaa</h1>
-<h3 align="center">Backend Web Developer & Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:2563EB,100:06B6D4&height=190&section=header&text=Hi,%20I'm%20Aksaa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Web%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20Open%20to%20Internship&descAlignY=58&descAlign=50" alt="Header" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+Enthusiast;PHP+%7C+MySQL+%7C+REST+API;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=2600&pause=700&color=F97316&center=true&vCenter=true&width=720&lines=Building+practical+web+applications;PHP+%7C+Laravel+%7C+MySQL+%7C+REST+API;Exploring+IoT+with+ESP32+and+Arduino;Learning+every+day+and+shipping+better+projects" alt="Typing animation" />
 </p>
-
----
-
-## 🚀 About Me
-- 🌱 Currently learning **Laravel & Backend Development**
-- 💻 Interested in **Web Development & REST API**
-- ⚡ Love building real-world projects
-- 🛠️ Working with PHP, Laravel, MySQL, and GitHub
-
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,vscode,postman,linux,arduino" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🌿 Smart Greenhouse System
-IoT-based greenhouse monitoring system using Laravel and ESP32.
-
-### 📚 REST API Mahasiswa
-Simple API using PHP & MySQL with GET and POST methods.
-
-### 🖥️ Laravel CRUD App
-Web-based CRUD system with authentication and database integration.
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxaksaa&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxaksaa&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
   <a href="https://github.com/sxaksaa">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://komarev.com/ghpvc/?username=sxaksaa&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-2563EB?style=for-the-badge" alt="Backend focus badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internship-22C55E?style=for-the-badge" alt="Open to internship badge" />
 </p>
 
 ---
 
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+
+## About Me
+
+I'm a web development learner who enjoys turning ideas into useful systems with clean backend logic, clear database flows, and practical user interfaces.
+
+- Currently sharpening my skills in **Laravel, PHP, MySQL, and REST API development**
+- Interested in **backend engineering, database design, web apps, and IoT integration**
+- Comfortable building **CRUD systems, authentication flows, API endpoints, and dashboards**
+- Looking for an **internship opportunity** where I can learn from real teams and contribute through hands-on work
+- I like projects that solve real problems, especially when software connects with hardware
+
+<br clear="right" />
+
+---
+
+## Tech Toolbox
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sxaksaa&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,vscode,postman,linux,arduino" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+**Backend:** PHP, Laravel, REST API, MySQL<br>
+**Frontend:** HTML, CSS, JavaScript, Blade<br>
+**Tools:** Git, GitHub, VS Code, Postman<br>
+**Other Interests:** Arduino, ESP32, IoT-based systems
+
+---
+
+## Project Highlights
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Smart Greenhouse</h3>
+      <p align="center">
+        IoT-based greenhouse monitoring system using Laravel and ESP32.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/ESP32-111827?style=flat-square" alt="ESP32" />
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">REST API Mahasiswa</h3>
+      <p align="center">
+        Simple API using PHP and MySQL with basic request handling.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Laravel CRUD App</h3>
+      <p align="center">
+        Web-based CRUD system with authentication and database integration.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Auth-22C55E?style=flat-square" alt="Auth" />
+        <img src="https://img.shields.io/badge/Blade-F97316?style=flat-square" alt="Blade" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Currently Leveling Up
+
+```txt
+Laravel structure      ████████░░  80%
+REST API design        ███████░░░  70%
+Database modeling      ███████░░░  70%
+Git workflow           ██████░░░░  60%
+Deployment             █████░░░░░  50%
+```
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sxaksaa&show_icons=true&theme=tokyonight&hide_border=true&title_color=F97316&icon_color=22C55E" alt="Aksaa's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxaksaa&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sxaksaa&theme=tokyonight&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=22C55E" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxaksaa&theme=react-dark&hide_border=true&area=true&custom_title=Aksaa's%20Contribution%20Graph" alt="GitHub activity graph" />
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://github.com/sxaksaa">
+    <img src="https://img.shields.io/badge/GitHub-sxaksaa-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Role-Backend%20Developer%20Intern-7C3AED?style=for-the-badge" alt="Role badge" />
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile. Let's build something useful.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:2563EB,100:7C3AED&height=110&section=footer" alt="Footer" />
 </p>
